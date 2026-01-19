@@ -10,5 +10,6 @@
 - `Payload1008_Extra10_Enhanced\*` : 採用 `Payload(1008,504)` 搭配 `H(10,5)` 去跑 `Enhanced` 架構。
 - `Payload1008_Extra10_Enhanced_Partial` : 採用 `Payload(1008,504)` 搭配 `H(10,5)` 去跑 `Enhanced & Partial` 架構。
 - `Original_Free-Ride/SDD_SameG_InterLeaver` : 原本 `Free-Ride` 採用`soft decsion decoding` 且用 `maximun likihood` 方法去解碼。
+- `Time_compare` : 解碼時間比較。
 - `PCM` : 有用到過的 `PCM`
 - `GM`  : 有用到過的`PCM`所對應的`GM`
